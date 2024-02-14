@@ -1,4 +1,3 @@
 {
-  "name": "John Doe",
-  "age": 30
+  "name": "John Doe"
 }
